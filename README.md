@@ -41,4 +41,6 @@ The AI-Powered ERC20 Token Launchpad is designed for blockchain developers, star
 **Conclusion:**
 The AI-Powered ERC20 Token Launchpad on Linea represents the next generation of token launch solutions, combining advanced technology with user-centric design. By lowering the barriers to entry for token creation and enhancing the overall launch experience, the platform seeks to foster innovation and growth within the blockchain ecosystem.
 
+## License
 
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
