@@ -4,18 +4,18 @@ import { Toaster } from 'react-hot-toast'
 import { AuthProvider } from './contexts/AuthContext'
 
 import './styles/Global.scss'
-import './GoogleFont.css'
+// import './GoogleFont.css'
 import './globals.scss'
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-})
+// const geistSans = Geist({
+//   variable: '--font-geist-sans',
+//   subsets: ['latin'],
+// })
 
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-})
+// const geistMono = Geist_Mono({
+//   variable: '--font-geist-mono',
+//   subsets: ['latin'],
+// })
 
 export const metadata = {
   title: {
@@ -62,7 +62,7 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en-US">
-      <body className={`${geistSans.variable} ${geistMono.variable} ms-Fabric`}>
+      <body className={` ms-Fabric`}>
         <Toaster />
         <AuthProvider>{children}</AuthProvider>
       </body>
