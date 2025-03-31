@@ -4,7 +4,7 @@
 The AI-Powered ERC20 Token Launchpad on Linea is an innovative platform designed to simplify and enhance the process of launching new ERC20 tokens. By leveraging advanced artificial intelligence algorithms and the secure, scalable infrastructure of Linea, this launchpad aims to empower developers and entrepreneurs to bring their blockchain projects to life with ease and efficiency.
 
 ## Video walkthrough
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AiOMemmgy30?si=pF7PnsNhpsx9WTGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/AiOMemmgy30?si=7BHu2j_-OmpsvW9z
 
 ## Live Demo
 https://nea-orcin.vercel.app/
