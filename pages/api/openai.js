@@ -130,7 +130,7 @@ async function create_token(args) {
 
   const RPC_ENDPOINT = 'https://rpc.sepolia.linea.build'
   const web3 = new Web3(RPC_ENDPOINT)
-  const privateKey = '0x' + '675f2dde138cb7091134dcb6e16e806b3a5f027ffa42ced472e0bf0fbaf17f09'
+  const privateKey = '0x' + process.env.PRIVATEKEY
   const account = web3.eth.accounts.privateKeyToAccount(privateKey)
 
   const contract = new web3.eth.Contract(ERC20ABI)
